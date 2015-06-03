@@ -1,7 +1,8 @@
 DarkComet ToolKit
 ===========
 Python tools for interacting with a DarkComet Controller.
-View the slides on my blog - 
+
+Grab the slides from my site - https://techanarchy.net/?attachment_id=836
 
 ###Current Tools
  - DC_TrafficGenerator.py This will create multiple fake connections with fake connection strings
