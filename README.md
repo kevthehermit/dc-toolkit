@@ -4,6 +4,9 @@ Python tools for interacting with a DarkComet Controller.
 
 Grab the slides from my site - https://techanarchy.net/?attachment_id=836
 
+Watch the video on YouTube
+https://youtu.be/tRM6HrW7BAc
+
 ###Current Tools
  - DC_TrafficGenerator.py This will create multiple fake connections with fake connection strings
  - DC_FileFetch.py This will read a file from the DarkComet Controller.
